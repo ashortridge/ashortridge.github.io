@@ -1,5 +1,4 @@
 # https://github.com/ashortridge/ashortridge.github.io
- 
 <!doctype html>
 
 <html lang="en">
@@ -312,6 +311,11 @@
 	<div>
 		<footer>
 			<p><small>Aleah Shortridge, Febuary 2024</small></p>
+		</footer>
+	</div><!--Close wrapper-->
+
+</body>
+</html>
 		</footer>
 	</div><!--Close wrapper-->
 
